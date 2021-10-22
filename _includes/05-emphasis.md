@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1  I like to **CODE** and I like to_live stream_ and if Iam__CODING__ on a *live stream* then Iam_* live coding*_ 
