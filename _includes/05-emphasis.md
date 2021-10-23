@@ -1,1 +1,8 @@
-1  I like to **CODE** and I like to_live stream_ and if Iam__CODING__ on a *live stream* then Iam_* live coding*_ 
+ 
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
